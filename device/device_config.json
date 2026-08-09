@@ -1,0 +1,5 @@
+{
+    "api_base_url": "http://127.0.0.1:8000",
+    "api_key": "0aaa669099beee15d55d2bf7ea6d2d4b2c64853a984ca6b7edb9ad9bf1e79819",
+    "schedule_poll_seconds": 20
+}
